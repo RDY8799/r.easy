@@ -1,0 +1,8 @@
+rdysoftware/minutas/Main.java
+ rdysoftware.minutas.Main
+rdysoftware/minutas/Start.java
+ rdysoftware.minutas.Start
+rdysoftware/minutas/ImageReader.java
+ rdysoftware.minutas.ImageReader
+rdysoftware/minutas/controllers/MainController.java
+ rdysoftware.minutas.controllers.MainController
